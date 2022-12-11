@@ -1,2 +1,2 @@
 # Simple Calculator 
-###### By ## using HTML, CSS, JavaScript ##
+###### By using _ _ HTML, CSS, JavaScript _ _
