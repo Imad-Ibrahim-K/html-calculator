@@ -1,2 +1,3 @@
 # Simple Calculator 
-###### By using _ _ HTML, CSS, JavaScript _ _
+###### By using HTML, CSS, JavaScript 
+![alt text](https://github.com/Imad-Ibrahim-K/Html-calculator/blob/master/image/calculator.jpg?raw=true)
